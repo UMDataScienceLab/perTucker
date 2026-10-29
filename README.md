@@ -34,3 +34,20 @@ python code/main.py
 ## Results
 Running the code will reproduce the result in the Figure 5 in the paper as follows
 ![plot](./results/Class_box.png)
+
+## Citation
+
+[Paper](https://doi.org/10.1080/00401706.2025.2453206) (Technometrics, 2025). If you use this code, please cite:
+
+```bibtex
+@article{hu2025personalized,
+  title={Personalized {T}ucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data},
+  author={Hu, Jiuyun and Shi, Naichen and Al Kontar, Raed and Yan, Hao},
+  journal={Technometrics},
+  volume={67},
+  number={3},
+  pages={409--425},
+  year={2025},
+  doi={10.1080/00401706.2025.2453206}
+}
+```
